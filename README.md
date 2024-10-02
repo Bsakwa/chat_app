@@ -63,6 +63,16 @@ Ensure you have **Node.js** installed. You can download it from [Node.js officia
 - **Socket.IO**: A library that enables real-time, bidirectional, and event-based communication between web clients and servers.
 - **HTML, CSS, JavaScript**: Front-end technologies for building web interfaces.
 
+### Future Improvements
+
+- Add user authentication (sign-in and sign-out).
+- Display user avatars and usernames.
+- Add chat rooms for topic-based discussions.
+- Implement message timestamps.
+- Enable private messaging between users.
+- Store chat history in a database (e.g., MongoDB).
+
+
 ### License
 
 This project is open source and available under the [MIT License](LICENSE).
