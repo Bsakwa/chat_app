@@ -2,6 +2,10 @@
 
 A simple real-time chat application built with **Node.js**, **Express**, and **Socket.IO**. This app allows multiple users to communicate instantly by sending and receiving messages in real time.
 
+## Project Screenshot
+![Project Screenshot](screenshot/chatapp.png)
+
+
 ## Features
 
 - Real-time messaging between users
