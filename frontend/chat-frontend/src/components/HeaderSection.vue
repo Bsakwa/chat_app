@@ -2,7 +2,7 @@
   <header class="bg-white shadow">
     <div class="container mx-auto flex justify-between items-center py-4">
       <div class="flex items-center space-x-4">
-        <img src="logo.png" alt="ChatApp Logo" class="w-12 h-12" />
+        <img src="chatapp.png" alt="ChatApp Logo" class="w-14 h-14" />
         <h1 class="text-3xl font-bold text-blue-600">ChatApp</h1>
       </div>
       <nav class="flex items-center space-x-6">
